@@ -1,4 +1,4 @@
-# mlFlowDVC
+# DVC_5
 Создание pipeline обучения модели с использованием DVC.
 
 ## Структура проекта
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/denisnaenko/mlFlowDVC.git
+git clone https://github.com/Sansetta/DVC_Practice_5.git
 cd mlFlowDVC
 ```
 
